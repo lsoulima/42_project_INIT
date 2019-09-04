@@ -1,0 +1,1 @@
+ Les clés RSA des machines autorisées à se connecter via SSH se trouvent dans le fichier suivant : ~/.ssh/authorized_keys 
